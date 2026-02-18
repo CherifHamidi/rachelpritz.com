@@ -1,7 +1,8 @@
 {
+  "version": 2,
   "redirects": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "destination": "https://elevategrowthcoaching.com/",
       "permanent": true
     }
